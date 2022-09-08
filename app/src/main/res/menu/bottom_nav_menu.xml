@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home_nav_item_selector"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/consulFragment"
+        android:icon="@drawable/ic_baseline_desktop_mac_24"
+        android:title="Consult" />
+
+    <item
+        android:id="@+id/primaryFragment"
+        android:icon="@drawable/icon_tog"
+     />
+
+
+    <item
+        android:id="@+id/massageFragment"
+       android:icon="@drawable/ic_baseline_desktop_mac_24"
+        android:title="Message" />
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/moreFragment"
+        android:title="More" />
+
+</menu>
